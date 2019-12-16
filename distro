@@ -3,7 +3,7 @@
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
-        "smallImageKey": "Avalon"
+        "smallImageKey": "avalon"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
@@ -21,7 +21,7 @@
             "discord": {
                 "shortId": "Main",
                 "largeImageText": "Main",
-                "largeImageKey": "Avalon"
+                "largeImageKey": "avalon"
             }, 
             "mainServer": true,
             "autoconnect": true,
