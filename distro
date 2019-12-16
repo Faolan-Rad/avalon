@@ -12,7 +12,7 @@
     "servers": [
         {
             "id": "Avalon-1.12.2",
-            "name": "Avalon Main,
+            "name": "Avalon Main",
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
             "version": "0.0.1",
