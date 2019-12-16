@@ -1,0 +1,54 @@
+{
+    "version": "0.0.1",
+    "discord": {
+        "clientId": "655818118752501781",
+        "smallImageText": "Avalon",
+        "smallImageKey": "Avalon"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "",
+    "servers": [
+        {
+            "id": "Avalon-1.12.2",
+            "name": "Avalon Main,
+            "description": "Main Avali server",
+            "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
+            "version": "0.0.1",
+            "address": "avalonvr.ml",
+            "minecraftVersion": "1.12.2",
+            "discord": {
+                "shortId": "Main",
+                "largeImageText": "Main",
+                "largeImageKey": "Avalon"
+            }, 
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2768",
+                    "name": "Minecraft Forge",
+                    "type": "ForgeHosted",
+                    "artifact": {
+                        "size": 4888981,
+                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
+                        "url": "https://github.com/Faolan-Rad/avalon/raw/master/forge-1.12.2-14.23.5.2768-universal.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "net.minecraft:launchwrapper:1.12",
+                            "name": "Mojang (LaunchWrapper)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 32999,
+                                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
+                                "url": "https://github.com/Faolan-Rad/avalon/raw/master/launchwrapper-1.12.jar"
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
