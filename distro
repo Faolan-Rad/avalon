@@ -1,5 +1,5 @@
 {
-    "version": "0.0.1",
+    "version": "0.0.2",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -237,8 +237,17 @@
                             }
                         }
                     ]
-                }
-                
+                },
+                {
+            "id": "com.optfine:optifine:3.0.0-beta-6-133",
+           "name": "optifine",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 2598821,
+                 "MD5": "6c59c4c7bc03031ed9b28ab4ff23b2d5",
+                 "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=b6410e9ebff058b18416430da295e409"
+              }
+            }
             ]
         }
     ]
