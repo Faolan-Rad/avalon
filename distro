@@ -249,7 +249,7 @@
               }
             },
              {
-            "id": "com.galacticraft:galacticraftPlanets:133",
+            "id": "com.galacticraft:galacticraftPlanets:corboi3",
            "name": "galacticraftPlanets",
             "type": "ForgeMod",
             "artifact": {
@@ -259,7 +259,7 @@
               }
             },
             {
-            "id": "com.galacticraft:galacticraftCore:133",
+            "id": "com.galacticraft:galacticraftCore:corboi2",
            "name": "galacticraftCore",
             "type": "ForgeMod",
             "artifact": {
@@ -269,7 +269,7 @@
               }
             },
             {
-            "id": "com.galacticraft:MicdoodleCore:133",
+            "id": "com.galacticraft:MicdoodleCore:coreboie",
            "name": "MicdoodleCore",
             "type": "ForgeMod",
             "artifact": {
