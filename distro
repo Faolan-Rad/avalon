@@ -249,7 +249,7 @@
               }
             },
              {
-            "id": "com.galacticraft:galacticraftPlanets:4443",
+            "id": "com.galacticraft:galacticraftPlanets:1",
            "name": "galacticraftPlanets",
             "type": "ForgeMod",
             "artifact": {
@@ -259,17 +259,17 @@
               }
             },
             {
-            "id": "com.galacticraft:galacticraftCore:2333",
+            "id": "com.galacticraft:galacticraftCore:1",
            "name": "galacticraftCore",
             "type": "ForgeMod",
             "artifact": {
                 "size": 10443969,
                  "MD5": "83168e6cb289d732cc78427b51f93153",
-                 "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.239.jar"
+                 "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.239.jar"
               }
             },
             {
-            "id": "com.galacticraft:MicdoodleCore:1233",
+            "id": "com.galacticraft:MicdoodleCore:1",
            "name": "MicdoodleCore",
             "type": "ForgeMod",
             "artifact": {
