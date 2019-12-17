@@ -1,5 +1,5 @@
 {
-    "version": "0.0.4",
+    "version": "0.0.5",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -249,7 +249,7 @@
               }
             },
              {
-            "id": "com.galacticraft:galacticraftPlanets:1",
+            "id": "com.galacticraft:galacticraftPlanets:1.2.3",
            "name": "galacticraftPlanets",
             "type": "ForgeMod",
             "artifact": {
@@ -259,7 +259,7 @@
               }
             },
             {
-            "id": "com.galacticraft:galacticraftCore:1",
+            "id": "com.galacticraft:galacticraftCore:1.2.3",
            "name": "galacticraftCore",
             "type": "ForgeMod",
             "artifact": {
@@ -269,7 +269,7 @@
               }
             },
             {
-            "id": "com.galacticraft:MicdoodleCore:1",
+            "id": "com.galacticraft:MicdoodleCore:1.2",
            "name": "MicdoodleCore",
             "type": "ForgeMod",
             "artifact": {
