@@ -1,5 +1,5 @@
 {
-    "version": "0.0.5",
+    "version": "0.0.6",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -274,8 +274,118 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 5734,
-                 "MD5": "83168e6cb289d732cc78427b51f93153",
+                 "MD5": "60e05663623d1d684be301ed67abc7a9",
                  "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.239.jar"
+              }
+            },
+            {
+            "id": "com.moreplayermodels:moreplayer:1.2",
+           "name": "MorePlayerModels",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 939984,
+                 "MD5": "83168e6cb289d732cc78427b51f93153",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/more-player-models/download/file"
+              }
+            },
+            {
+            "id": "com.BiblioCraft:BiblioCraft:1.2",
+           "name": "BiblioCraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 5122856,
+                 "MD5": "31919570ecb4c19b1d71416b591bb9b4",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/bibliocraft/download/file"
+              }
+            },
+            {
+            "id": "com.EnderStorage:EnderStorage:1.2",
+           "name": "EnderStorage",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 223250,
+                 "MD5": "31919570ecb4c19b1d71416b591bb9b5",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/download/file"
+              }
+            },
+            {
+            "id": "com.Mantle:Mantle:1.2",
+           "name": "Mantle",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 843486,
+                 "MD5": "31919570ecb4c19b1d71216b591bb9b6",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/mantle/download/file"
+              }
+            },
+            {
+            "id": "com.JEI:JEI:1.2",
+           "name": "JEI",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 651473,
+                 "MD5": "31919570ecb4c1921d71416b591bb9b6",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/file"
+              }
+            },
+            {
+            "id": "com.industrialcraft:industrialcraft:1.2",
+           "name": "industrialcraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 8356436,
+                 "MD5": "31911570ecb4c19b1d71416b591bbeb6",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-craft/download/file"
+              }
+            },
+            {
+            "id": "com.NuclearCraft:NuclearCraft:1.2",
+           "name": "NuclearCraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 6861074 ,
+                 "MD5": "31919570ecb4c19b1d71416a591bbeb6",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/download/file"
+              }
+            },
+            {
+            "id": "com.OpenComputers:OpenComputers:1.2",
+           "name": "OpenComputers",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 15643758 ,
+                 "MD5": "31919570ecb4c19b1d71416g591bbeb6",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/opencomputers/download/file"
+              }
+            },
+            {
+            "id": "com.MalisisDoors:MalisisDoors:1.2",
+           "name": "MalisisDoors",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 1741669,
+                 "MD5": "31919570ecb4c19b1d71416g591bbfb6",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/malisisdoors/download/file"
+              }
+            },
+            {
+            "id": "com.RFTools:RFTools:1.2",
+           "name": "RFTools",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 2895812,
+                 "MD5": "31919570ecb4c19b1d71416g595jbfb8",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/rftools/download/file"
+              }
+            },
+            {
+            "id": "com.BiomesoPlenty:BiomesoPlenty:1.2",
+           "name": "BiomesoPlenty",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 4696621,
+                 "MD5": "31919570ecb4c19b1d71416g591jbfb8",
+                 "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/file"
               }
             }
             ]
