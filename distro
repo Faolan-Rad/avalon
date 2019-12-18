@@ -31,7 +31,7 @@
                     "name": "Minecraft Forge",
                     "type": "ForgeHosted",
                     "artifact": {
-                        "size": 4888981,
+                        "size": 4884700,
                         "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
                         "url": "https://github.com/Faolan-Rad/avalon/blob/master/forge-1.12.2-14.23.5.2847.jar"
                     },
