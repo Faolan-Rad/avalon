@@ -268,16 +268,6 @@
                  "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.239.jar"
               }
             },
-                {
-            "id": "com.optfine:optifine:3.0.0-beta-6-133",
-           "name": "optifine",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 2598821,
-                 "MD5": "6c59c4c7bc03031ed9b28ab4ff23b2d5",
-                 "url": "https://optifine.net/downloadx?f=OptiFine_1.12.2_HD_U_F5.jar&x=b6410e9ebff058b18416430da295e409"
-              }
-            },
             {
             "id": "com.BiblioCraft:BiblioCraft:1.2",
            "name": "BiblioCraft",
