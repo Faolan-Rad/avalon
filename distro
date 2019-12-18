@@ -228,6 +228,16 @@
                         }
                     ]
                 },
+                            {
+            "id": "com.buildcraft:bildcraft:1.2",
+           "name": "buildcraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 4784433,
+                 "MD5": "51634442dd93c5f421fa7627197b5fb2",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/buildcraft-all-7.99.24.4.jar"
+              }
+            },
                 {
             "id": "com.galacticraft:galacticraftPlanets:1.2.3",
            "name": "galacticraftPlanets",
