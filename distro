@@ -428,6 +428,16 @@
                  "MD5": "7ea2f61d67d5cec8d3c8faa3e51d6c7b",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/NuclearCraft-2.18l-1.12.2.jar"
               }
+            },
+            {
+            "id": "com.OpenComputers:OpenComputers:1.2",
+           "name": "OpenComputers",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 15643758,
+                 "MD5": "951e459b90f0c14a57cd7746467224ae",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/OpenComputers-MC1.12.2-1.7.5.192.jar"
+              }
             }
             ]
         }
