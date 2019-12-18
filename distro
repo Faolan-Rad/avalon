@@ -307,6 +307,66 @@
                  "MD5": "91310f3701200e0aecaabcb6d3315b95",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/jei_1.12.2-4.15.0.291.jar"
               }
+            },
+            {
+            "id": "com.PTRLib:PTRLib:1.2",
+           "name": "PTRLib",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 169483,
+                 "MD5": "866cb50360eeb8cfed01cd7ff1102e5c",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/PTRLib-1.0.4.jar"
+              }
+            },
+            {
+            "id": "com.CodeChickenLib:CodeChickenLib:1.2",
+           "name": "CodeChickenLib",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 704330,
+                 "MD5": "e679823c84d7f99c40ee4e5094e944d9",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+              }
+            },
+            {
+            "id": "com.BrandonsCore:BrandonsCore:1.2",
+           "name": "BrandonsCore",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 825212,
+                 "MD5": "1e2e50f1fd9106cb97d0af2d91044d5c",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/BrandonsCore-1.12.2-2.4.17.208-universal.jar"
+              }
+            },
+            {
+            "id": "com.malisiscore:malisiscore:1.2",
+           "name": "malisiscore",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 1939783,
+                 "MD5": "d88a4258a50d81749d4e438cdde46187",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/malisiscore-1.12.2-6.5.1.jar"
+              }
+            },
+            {
+            "id": "com.mcjtylib:mcjtylib:1.2",
+           "name": "mcjtylib",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 544856,
+                 "MD5": "6e7dcebd252456ee44542fcc1f1332a2",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/mcjtylib-1.12-3.5.4.jar"
+              }
+            },
+            {
+            "id": "com.RedstoneFlux:RedstoneFlux:1.2",
+           "name": "RedstoneFlux",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 36278,
+                 "MD5": "8cd942c7b18e369509b8121a1dc3d73a",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/RedstoneFlux-1.12-2.1.0.6-universal.jar"
+              }
             }
             ]
         }
