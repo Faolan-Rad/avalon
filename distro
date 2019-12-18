@@ -1,5 +1,5 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -15,7 +15,7 @@
             "name": "Avalon Main",
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "address": "avalonvr.ml:25566",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -294,7 +294,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 939984,
-                 "MD5": "83168e6cb289d732cc78427b51f93153",
+                 "MD5": "dd3c12263f806a659a2a982bf7b1a456",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/MorePlayerModels_1.12.2-(05Dec19).jar"
               }
             },
@@ -304,7 +304,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 223250,
-                 "MD5": "31919570ecb4c19b1d71416b591bb9b5",
+                 "MD5": "e9ed057b62d72aac0a14dae27b4b0b97",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/EnderStorage-1.12.2-2.4.6.137-universal.jar"
               }
             },
@@ -314,7 +314,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 843486,
-                 "MD5": "31919570ecb4c19b1d71216b591bb9b6",
+                 "MD5": "5dc62c57f275b9493d7a252d4c1f9233",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/Mantle-1.12-1.3.3.55.jar"
               }
             },
@@ -324,7 +324,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 651473,
-                 "MD5": "31919570ecb4c1921d71416b591bb9b6",
+                 "MD5": "91310f3701200e0aecaabcb6d3315b95",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/jei_1.12.2-4.15.0.291.jar"
               }
             },
@@ -334,7 +334,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 8356436,
-                 "MD5": "31911570ecb4c19b1d71416b591bbeb6",
+                 "MD5": "f0a66cdd2c79f40ee2cacca348e55f5f",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/industrialcraft-2-2.8.170-ex112.jar"
               }
             },
@@ -344,7 +344,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 6861074,
-                 "MD5": "31919570ecb4c19b1d71416a591bbeb6",
+                 "MD5": "7ea2f61d67d5cec8d3c8faa3e51d6c7b",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/NuclearCraft-2.18l-1.12.2.jar"
               }
             },
@@ -354,7 +354,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 15643758,
-                 "MD5": "31919570ecb4c19b1d71416g591bbeb6",
+                 "MD5": "951e459b90f0c14a57cd7746467224ae",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/OpenComputers-MC1.12.2-1.7.5.192.jar"
               }
             },
@@ -364,7 +364,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 1741669,
-                 "MD5": "31919570ecb4c19b1d71416g591bbfb6",
+                 "MD5": "f29aa6786435109f7141f1dce798b680",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/malisisdoors-1.12.2-7.3.0.jar"
               }
             },
@@ -374,7 +374,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 2895812,
-                 "MD5": "31919570ecb4c19b1d71416g595jbfb8",
+                 "MD5": "8d181c60e24edd8d7902ff36be70e0fb",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/rftools-1.12-7.72.jar"
               }
             },
@@ -384,7 +384,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 4696621,
-                 "MD5": "31919570ecb4c19b1d71416g591jbfb8",
+                 "MD5": "52be6c6166991f0c77fc93d80f64cca5",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/BiomesOPlenty-1.12.2-7.0.1.2441-universal(1).jar"
               }
             },
@@ -404,7 +404,7 @@
             "type": "ForgeMod",
             "artifact": {
                 "size": 4062630,
-                 "MD5": "ca6aead6a5f0a104d0c951a448c6fa65",
+                 "MD5": "718d0c172cf9d2a84fda544107302a84",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/appliedenergistics2-rv6-stable-7.jar"
               }
             },
