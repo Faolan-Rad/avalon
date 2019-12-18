@@ -285,7 +285,7 @@
             "artifact": {
                 "size": 939984,
                  "MD5": "83168e6cb289d732cc78427b51f93153",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/more-player-models/download/2837187/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/MorePlayerModels_1.12.2-(05Dec19).jar"
               }
             },
             {
@@ -295,7 +295,7 @@
             "artifact": {
                 "size": 5122856,
                  "MD5": "31919570ecb4c19b1d71416b591bb9b4",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/bibliocraft/download/2574880/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/BiblioCraft%5Bv2.4.5%5D%5BMC1.12.2%5D.jar"
               }
             },
             {
@@ -305,7 +305,7 @@
             "artifact": {
                 "size": 223250,
                  "MD5": "31919570ecb4c19b1d71416b591bb9b5",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/ender-storage-1-8/download/2755787/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/EnderStorage-1.12.2-2.4.6.137-universal.jar"
               }
             },
             {
@@ -315,7 +315,7 @@
             "artifact": {
                 "size": 843486,
                  "MD5": "31919570ecb4c19b1d71216b591bb9b6",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/mantle/download/2713386/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Mantle-1.12-1.3.3.55.jar"
               }
             },
             {
@@ -325,7 +325,7 @@
             "artifact": {
                 "size": 651473,
                  "MD5": "31919570ecb4c1921d71416b591bb9b6",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/jei/download/2803400/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/jei_1.12.2-4.15.0.291.jar"
               }
             },
             {
@@ -335,7 +335,7 @@
             "artifact": {
                 "size": 8356436,
                  "MD5": "31911570ecb4c19b1d71416b591bbeb6",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/industrial-craft/download/2746892/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/industrialcraft-2-2.8.170-ex112.jar"
               }
             },
             {
@@ -345,7 +345,7 @@
             "artifact": {
                 "size": 6861074 ,
                  "MD5": "31919570ecb4c19b1d71416a591bbeb6",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/nuclearcraft-mod/download/2838824/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/NuclearCraft-2.18l-1.12.2.jar"
               }
             },
             {
@@ -355,7 +355,7 @@
             "artifact": {
                 "size": 15643758 ,
                  "MD5": "31919570ecb4c19b1d71416g591bbeb6",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/opencomputers/download/2828357/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/OpenComputers-MC1.12.2-1.7.5.192.jar"
               }
             },
             {
@@ -365,7 +365,7 @@
             "artifact": {
                 "size": 1741669,
                  "MD5": "31919570ecb4c19b1d71416g591bbfb6",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/malisisdoors/download/2526674/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/malisisdoors-1.12.2-7.3.0.jar"
               }
             },
             {
@@ -375,7 +375,7 @@
             "artifact": {
                 "size": 2895812,
                  "MD5": "31919570ecb4c19b1d71416g595jbfb8",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/rftools/download/2745848/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/rftools-1.12-7.72.jar"
               }
             },
             {
@@ -385,7 +385,87 @@
             "artifact": {
                 "size": 4696621,
                  "MD5": "31919570ecb4c19b1d71416g591jbfb8",
-                 "url": "https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/download/2715506/file"
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/BiomesOPlenty-1.12.2-7.0.1.2441-universal(1).jar"
+              }
+            },
+            {
+            "id": "com.buildcraft:bildcraft:1.2",
+           "name": "buildcraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 4784433,
+                 "MD5": "51634442dd93c5f421fa7627197b5fb2",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/buildcraft-all-7.99.24.4.jar"
+              }
+            },
+            {
+            "id": "com.appliedenergistics2:appliedenergistics2:1.2",
+           "name": "appliedenergistics2",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 4062630,
+                 "MD5": "ca6aead6a5f0a104d0c951a448c6fa65",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/appliedenergistics2-rv6-stable-7.jar"
+              }
+            },
+            {
+            "id": "com.Draconic-Evolution:Draconic-Evolution:1.2",
+           "name": "Draconic-Evolution",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 5699511,
+                 "MD5": "23f3e1f278c7d9f0b9e76ccb98563187",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar"
+              }
+            },
+            {
+            "id": "com.InventoryTweaks:InventoryTweaks:1.2",
+           "name": "InventoryTweaks",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 263258,
+                 "MD5": "77f5773ec045f3c9b2347eb0af515dd8",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/InventoryTweaks-1.63.jar"
+              }
+            },
+            {
+            "id": "com.Decocraft:Decocraft:1.2",
+           "name": "Decocraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 16747522,
+                 "MD5": "05c6327600aeef2b6ab099fd760a34a4",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Decocraft-2.6.3_1.12.2.jar"
+              }
+            },
+            {
+            "id": "com.HarvestCraft:HarvestCraft:1.2",
+           "name": "HarvestCraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 4907780,
+                 "MD5": "3131ab088923eff10223709210c5865b",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Pam's%2BHarvestCraft%2B1.12.2zf.jar"
+              }
+            },
+            {
+            "id": "com.Wawla:Wawla:1.2",
+           "name": "Wawla",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 94171,
+                 "MD5": "07bf385a4657291dd52491b8e87777fb",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Wawla-1.12.2-2.5.273.jar"
+              }
+            },
+            {
+            "id": "com.journeymap:journeymap:1.2",
+           "name": "journeymap",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 1920463,
+                 "MD5": "30fc96166f1ba7982c011b7fc745ea66",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/journeymap-1.12.2-5.5.5.jar"
               }
             }
             ]
