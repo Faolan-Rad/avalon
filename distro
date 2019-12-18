@@ -367,6 +367,46 @@
                  "MD5": "8cd942c7b18e369509b8121a1dc3d73a",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/RedstoneFlux-1.12-2.1.0.6-universal.jar"
               }
+            },
+            {
+            "id": "com.Decocraft:Decocraft:1.2",
+           "name": "Decocraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 16747522,
+                 "MD5": "05c6327600aeef2b6ab099fd760a34a4",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Decocraft-2.6.3_1.12.2.jar"
+              }
+            },
+            {
+            "id": "com.HarvestCraft:HarvestCraft:1.2",
+           "name": "HarvestCraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 4907780,
+                 "MD5": "3131ab088923eff10223709210c5865b",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Pam's%2BHarvestCraft%2B1.12.2zf.jar"
+              }
+            },
+            {
+            "id": "com.Wawla:Wawla:1.2",
+           "name": "Wawla",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 94171,
+                 "MD5": "07bf385a4657291dd52491b8e87777fb",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Wawla-1.12.2-2.5.273.jar"
+              }
+            },
+            {
+            "id": "com.journeymap:journeymap:1.2",
+           "name": "journeymap",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 1920463,
+                 "MD5": "30fc96166f1ba7982c011b7fc745ea66",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/journeymap-1.12.2-5.5.5.jar"
+              }
             }
             ]
         }
