@@ -1,5 +1,5 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.7",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -343,7 +343,7 @@
            "name": "NuclearCraft",
             "type": "ForgeMod",
             "artifact": {
-                "size": 6861074 ,
+                "size": 6861074,
                  "MD5": "31919570ecb4c19b1d71416a591bbeb6",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/NuclearCraft-2.18l-1.12.2.jar"
               }
@@ -353,7 +353,7 @@
            "name": "OpenComputers",
             "type": "ForgeMod",
             "artifact": {
-                "size": 15643758 ,
+                "size": 15643758,
                  "MD5": "31919570ecb4c19b1d71416g591bbeb6",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/OpenComputers-MC1.12.2-1.7.5.192.jar"
               }
