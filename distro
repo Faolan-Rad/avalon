@@ -1,5 +1,5 @@
 {
-    "version": "0.0.9",
+    "version": "0.1.0",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -15,7 +15,7 @@
             "name": "Avalon Main",
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
-            "version": "0.0.2",
+            "version": "0.0.3",
             "address": "avalonvr.ml:25566",
             "minecraftVersion": "1.12.2",
             "discord": {
