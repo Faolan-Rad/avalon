@@ -468,14 +468,35 @@
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/BiomesOPlenty-1.12.2-7.0.1.2441-universal(1).jar"
               }
             },
+
             {
-            "id": "com.buildcraft:bildcraft:1.2",
-           "name": "buildcraft",
+            "id": "com.appliedenergistics2:appliedenergistics2:1.2",
+           "name": "appliedenergistics2",
             "type": "ForgeMod",
             "artifact": {
-                "size": 4784433,
-                 "MD5": "51634442dd93c5f421fa7627197b5fb2",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/buildcraft-all-7.99.24.4.jar"
+                "size": 4062630,
+                 "MD5": "718d0c172cf9d2a84fda544107302a84",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/appliedenergistics2-rv6-stable-7.jar"
+              }
+            },
+            {
+            "id": "com.Draconic-Evolution:Draconic-Evolution:1.2",
+           "name": "Draconic-Evolution",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 5699511,
+                 "MD5": "23f3e1f278c7d9f0b9e76ccb98563187",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar"
+              }
+            },
+            {
+            "id": "com.InventoryTweaks:InventoryTweaks:1.2",
+           "name": "InventoryTweaks",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 263258,
+                 "MD5": "77f5773ec045f3c9b2347eb0af515dd8",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/InventoryTweaks-1.63.jar"
               }
             }
             ]
