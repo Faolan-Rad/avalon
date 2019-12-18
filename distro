@@ -93,7 +93,7 @@
            "name": "MicdoodleCore",
             "type": "ForgeMod",
             "artifact": {
-                "size": 5734,
+                "size": 53300,
                  "MD5": "60e05663623d1d684be301ed67abc7a9",
                  "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.239.jar"
               }
