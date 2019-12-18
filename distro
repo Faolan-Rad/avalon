@@ -387,6 +387,16 @@
                  "MD5": "3131ab088923eff10223709210c5865b",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/Pam's%2BHarvestCraft%2B1.12.2zf.jar"
               }
+            },
+            {
+            "id": "com.Wawla:Wawla:1.2",
+           "name": "Wawla",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 94171,
+                 "MD5": "07bf385a4657291dd52491b8e87777fb",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Wawla-1.12.2-2.5.273.jar"
+              }
             }
             ]
         }
