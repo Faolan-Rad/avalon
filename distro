@@ -397,6 +397,37 @@
                  "MD5": "07bf385a4657291dd52491b8e87777fb",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/Wawla-1.12.2-2.5.273.jar"
               }
+            },
+            {
+            "id": "com.journeymap:journeymap:1.2",
+           "name": "journeymap",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 1920463,
+                 "MD5": "30fc96166f1ba7982c011b7fc745ea66",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/journeymap-1.12.2-5.5.5.jar"
+              }
+            },    
+  
+            {
+            "id": "com.industrialcraft:industrialcraft:1.2",
+           "name": "industrialcraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 8356436,
+                 "MD5": "f0a66cdd2c79f40ee2cacca348e55f5f",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/industrialcraft-2-2.8.170-ex112.jar"
+              }
+            },
+            {
+            "id": "com.NuclearCraft:NuclearCraft:1.2",
+           "name": "NuclearCraft",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 6861074,
+                 "MD5": "7ea2f61d67d5cec8d3c8faa3e51d6c7b",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/NuclearCraft-2.18l-1.12.2.jar"
+              }
             }
             ]
         }
