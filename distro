@@ -430,13 +430,13 @@
               }
             },
             {
-            "id": "com.OpenComputers:OpenComputers:1.2",
-           "name": "OpenComputers",
+            "id": "com.MalisisDoors:MalisisDoors:1.2",
+           "name": "MalisisDoors",
             "type": "ForgeMod",
             "artifact": {
-                "size": 15643758,
-                 "MD5": "951e459b90f0c14a57cd7746467224ae",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/OpenComputers-MC1.12.2-1.7.5.192.jar"
+                "size": 1741669,
+                 "MD5": "f29aa6786435109f7141f1dce798b680",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/malisisdoors-1.12.2-7.3.0.jar"
               }
             }
             ]
