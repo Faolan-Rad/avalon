@@ -32,7 +32,7 @@
                     "type": "ForgeHosted",
                     "artifact": {
                         "size": 4884700,
-                        "MD5": "3fcc9b0104f0261397d3cc897e55a1c5",
+                        "MD5": "ace030df9362cee3934569ac8ef8304c",
                         "url": "https://github.com/Faolan-Rad/avalon/raw/master/forge-1.12.2-14.23.5.2847.jar"
                     },
                     "subModules": [
