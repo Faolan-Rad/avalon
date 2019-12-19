@@ -1,5 +1,5 @@
 {
-    "version": "0.1.3",
+    "version": "0.1.4",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -15,7 +15,7 @@
             "name": "Avalon Main",
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
-            "version": "0.0.4",
+            "version": "0.0.5",
             "address": "avalonvr.ml:25566",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -517,6 +517,16 @@
                 "size": 270415,
                  "MD5": "356f7e553d831220b8e35dcb6995b9a3",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/randompatches-1.12.2-1.19.1.1.jar"
+              }
+            },
+            {
+            "id": "com.VoiceChat:VoiceChat:1.2",
+           "name": "VoiceChat",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 445000,
+                 "MD5": "a3c7890b8c06b04246b75c459c94d31b",
+                 "url": "https://github.com/Faolan-Rad/avalon/blob/master/VoiceChat-1.12.2-0.7.0.jar"
               }
             }
             ]
