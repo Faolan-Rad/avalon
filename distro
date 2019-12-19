@@ -524,7 +524,7 @@
            "name": "VoiceChat",
             "type": "ForgeMod",
             "artifact": {
-                "size": 445000,
+                "size": 44500,
                  "MD5": "a3c7890b8c06b04246b75c459c94d31b",
                  "url": "https://github.com/Faolan-Rad/avalon/blob/master/VoiceChat-1.12.2-0.7.0.jar"
               }
