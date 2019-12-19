@@ -1,5 +1,5 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -15,7 +15,7 @@
             "name": "Avalon Main",
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
-            "version": "0.0.3",
+            "version": "0.0.4",
             "address": "avalonvr.ml:25566",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -507,6 +507,16 @@
                 "size": 263258,
                  "MD5": "77f5773ec045f3c9b2347eb0af515dd8",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/InventoryTweaks-1.63.jar"
+              }
+            },
+            {
+            "id": "com.randompatches:randompatches:1.2",
+           "name": "randompatches",
+            "type": "ForgeMod",
+            "artifact": {
+                "size": 270415,
+                 "MD5": "356f7e553d831220b8e35dcb6995b9a3",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/randompatches-1.12.2-1.19.1.1.jar"
               }
             }
             ]
