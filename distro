@@ -576,6 +576,16 @@
                                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/jna-4.2.1.jar"
                             }
                         },
+                                                                        {
+                            "id": "optifine:OptiFine:1.12.2_HD_U_E3",
+                            "name": "vivecraft(juna)",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2444057,
+                                "MD5": "dd0c56ff139a0246d9d33e1961e166c8",
+                                "url": "https://github.com/Faolan-Rad/avalon/raw/master/OptiFine-1.12.2_HD_U_E3.jar"
+                            }
+                        },
                                                 {
                             "id": "org.json:json:20140107",
                             "name": "vivecraft(json)",
