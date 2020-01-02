@@ -1,5 +1,5 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "discord": {
         "clientId": "655818118752501781",
         "smallImageText": "Avalon",
@@ -15,7 +15,7 @@
             "name": "Avalon Main",
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
-            "version": "0.0.5",
+            "version": "0.0.6",
             "address": "avalonvr.ml:25566",
             "minecraftVersion": "1.12.2",
             "discord": {
@@ -518,545 +518,75 @@
                  "MD5": "356f7e553d831220b8e35dcb6995b9a3",
                  "url": "https://github.com/Faolan-Rad/avalon/raw/master/randompatches-1.12.2-1.19.1.1.jar"
               }
-            }
-            ]
-        },{
-            "id": "Avalon - 1.12.2",
-            "name": "Avalon Main VR",
-            "description": "Main Avali server VR",
-            "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
-            "version": "0.0.5",
-            "address": "avalonvr.ml:25566",
-            "minecraftVersion": "1.12.2",
-            "discord": {
-                "shortId": "MainVR",
-                "largeImageText": "Main",
-                "largeImageKey": "avalon"
-            }, 
-            "mainServer": false,
-            "autoconnect": true,
-            "modules": [
-                {
-                    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2847",
-                    "name": "Minecraft Forge",
-                    "type": "ForgeHosted",
-                    "artifact": {
-                        "size": 4884700,
-                        "MD5": "ace030df9362cee3934569ac8ef8304c",
-                        "url": "https://github.com/Faolan-Rad/avalon/raw/master/forge-1.12.2-14.23.5.2847.jar"
-                    },
-                    "subModules": [
-                       {
-                            "id": "net.minecraft:launchwrapper:1.12",
-                            "name": "Mojang (LaunchWrapper)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 32999,
-                                "MD5": "934b2d91c7c5be4a49577c9e6b40e8da",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/launchwrapper-1.12.jar"
-                            }
-                        },
-                        {
-                            "id": "org.ow2.asm:asm-all:5.2",
-                            "name": "Mojang (ASM)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 247787,
-                                "MD5": "f5ad16c7f0338b541978b0430d51dc83",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/asm-all-5.2.jar"
-                            }
-                        },
-                                                {
-                            "id": "com.sun:jna:4.2.1",
-                            "name": "vivecraft(juna)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 1137285,
-                                "MD5": "5478e0ba3bc3b5730bff733f76482f32",
-                                "url": "https://github.com/Faolan-Rad/avalon/raw/master/jna-4.2.1.jar"
-                            }
-                        },
-                                                                        {
-                            "id": "optifine:OptiFine:1.12.2_HD_U_E3",
-                            "name": "vivecraft(juna)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 2444057,
-                                "MD5": "dd0c56ff139a0246d9d33e1961e166c8",
-                                "url": "https://github.com/Faolan-Rad/avalon/raw/master/OptiFine-1.12.2_HD_U_E3.jar"
-                            }
-                        },
-                                                {
-                            "id": "org.json:json:20140107",
-                            "name": "vivecraft(json)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 64952,
-                                "MD5": "23c8b8cdf22e02d1839b613dc2507f9c",
-                                "url": "https://github.com/Faolan-Rad/avalon/raw/master/json-20140107.jar"
-                            }
-                        },
-                        {
-                            "id": "jline:jline:2.13",
-                            "name": "Mojang (jline)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 248566,
-                                "MD5": "f251ba666cccb260ff7215b2cbeee8d4",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jline-2.13.jar"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang:scala-compiler:2.11.1@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-compiler)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 3076920,
-                                "MD5": "7d89e952f2d5c74577310cd2c28e3f20",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-compiler-2.11.1.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang:scala-actors-migration_2.11:1.1.0@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-actors-migration)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 21324,
-                                "MD5": "04e3428b2600ace33c7ae2bf1f6c0a4c",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-actors-migration_2.11-1.1.0.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang.plugins:scala-continuations-library_2.11:1.0.2@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-continuations-library)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 7956,
-                                "MD5": "ed9b1d27aba8ac4090a3749c4dfc895a",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-library_2.11-1.0.2.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang.plugins:scala-continuations-plugin_2.11.1:1.0.2@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-continuations-plugin)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 46140,
-                                "MD5": "a8232db22a72a981de6b1399eb86dff7",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-continuations-plugin_2.11.1-1.0.2.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang:scala-parser-combinators_2.11:1.0.1@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-parser-combinators)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 85568,
-                                "MD5": "2e50a7df17680daadacca69f07f8a16d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-parser-combinators_2.11-1.0.1.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang:scala-reflect:2.11.1@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-reflect)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 1070312,
-                                "MD5": "84e5dc81c10e2bd74c579c9d0332fdd9",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-reflect-2.11.1.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang:scala-swing_2.11:1.0.1",
-                            "name": "Minecraft Forge (scala-swing)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 736795,
-                                "MD5": "1d360289e697022a3f57abaad344b28f",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-swing_2.11-1.0.1.jar"
-                            }
-                        },
-                        {
-                            "id": "org.scala-lang:scala-xml_2.11:1.0.2@jar.pack.xz",
-                            "name": "Minecraft Forge (scala-xml)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 217812,
-                                "MD5": "cc891b094a4c32dedc56bfefe9b072ff",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/scala-xml_2.11-1.0.2.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "com.typesafe.akka:akka-actor_2.11:2.3.3@jar.pack.xz",
-                            "name": "Minecraft Forge (akka-actor)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 746612,
-                                "MD5": "25cb22c3078e9fb3f7a861c912924862",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/akka-actor_2.11-2.3.3.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "com.typesafe:config:1.2.1@jar.pack.xz",
-                            "name": "Minecraft Forge (typesafe-config)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 56636,
-                                "MD5": "10ec4ccabc4e68aac9cf87165ead5d7d",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/config-1.2.1.jar.pack.xz"
-                            }
-                        },
-                        {
-                            "id": "lzma:lzma:0.0.1",
-                            "name": "Mojang (LZMA)",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 5762,
-                                "MD5": "a3e3c3186e41c4a1a3027ba2bb23cdc6",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/lzma-0.0.1.jar"
-                            }
-                        },
-                        {
-                            "id": "net.sf.trove4j:trove4j:3.0.3",
-                            "name": "Trove4J",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 2523218,
-                                "MD5": "8fc4d4e0129244f9fd39650c5f30feb2",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/trove4j-3.0.3.jar"
-                            }
-                        },
-                        {
-                            "id": "java3d:vecmath:1.5.2",
-                            "name": "Vecmath",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 318956,
-                                "MD5": "e5d2b7f46c4800a32f62ce75676a5710",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/vecmath-1.5.2.jar"
-                            }
-                        },
-                        {
-                            "id": "net.sf.jopt-simple:jopt-simple:5.0.3",
-                            "name": "Jopt-simple",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 78175,
-                                "MD5": "0a5ec84e23df9d7cfb4063bc55f2744c",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/jopt-simple-5.0.3.jar"
-                            }
-                        },
-                        {
-                            "id": "org.apache.maven:maven-artifact:3.5.3",
-                            "name": "maven-artifact",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 54961,
-                                "MD5": "7741ebf29690ee7d9dde9cf4376347fc",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/maven-artifact-3.5.3.jar"
-                            }
-                        },
-                        {
-                            "id": "net.minecraftforge:MercuriusUpdater:1.12.2",
-                            "name": "MercuriusUpdater",
-                            "type": "Library",
-                            "artifact": {
-                                "size": 15098,
-                                "MD5": "6eb9e61097bee3103a2fdc42746b76a4",
-                                "url": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/1.12.2/MercuriusUpdater-1.12.2.jar"
-                            }
-                        }
-                    ]
-                },
-                            {
-            "id": "com.buildcraft:bildcraft:1.2",
-           "name": "buildcraft",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 4784433,
-                 "MD5": "51634442dd93c5f421fa7627197b5fb2",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/buildcraft-all-7.99.24.4.jar"
-              }
             },
-                {
-            "id": "com.galacticraft:galacticraftPlanets:1.2.3",
-           "name": "galacticraftPlanets",
+            {
+            "id": "com.clums:clums:1.2",
+           "name": "Clumps",
             "type": "ForgeMod",
             "artifact": {
-                "size": 4097292,
-                 "MD5": "6c59c4c7bc03031ed9b28ab4ff23b2d5",
-                 "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/Galacticraft-Planets-1.12.2-4.0.2.239.jar"
+                "size": 13792,
+                 "MD5": "a85ac8dea135357c80625e6b2bf84ea0",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Clumps-3.1.2(1).jar"
               }
             },
             {
-            "id": "com.galacticraft:galacticraftCore:1.2.3",
-           "name": "galacticraftCore",
+            "id": "com.LagGoggles:fat:1.2",
+           "name": "LagGoggles",
             "type": "ForgeMod",
             "artifact": {
-                "size": 10443969,
-                 "MD5": "83168e6cb289d732cc78427b51f93153",
-                 "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/GalacticraftCore-1.12.2-4.0.2.239.jar"
+                "size": 1189936,
+                 "MD5": "c0ced2881440c618279de2abc0a42b44",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/LagGoggles-FAT-1.12.2-4.9.jar"
               }
             },
             {
-            "id": "com.galacticraft:MicdoodleCore:1.2",
-           "name": "MicdoodleCore",
+            "id": "com.FastFurnace:FastFurnace1.3.1:1.2",
+           "name": "FastFurnace",
             "type": "ForgeMod",
             "artifact": {
-                "size": 5734,
-                 "MD5": "60e05663623d1d684be301ed67abc7a9",
-                 "url": "https://ci.micdoodle8.com/job/Galacticraft-1.12/239/artifact/Forge/build/libs/MicdoodleCore-1.12.2-4.0.2.239.jar"
+                "size": 10035,
+                 "MD5": "c150ecbb71ff772bc95e1834b17c01c0",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/FastFurnace-1.12.2-1.3.1.jar"
               }
             },
             {
-            "id": "com.BiblioCraft:BiblioCraft:1.2",
-           "name": "BiblioCraft",
+            "id": "com.Notes:Notes1.12:1.2",
+           "name": "Notes",
             "type": "ForgeMod",
             "artifact": {
-                "size": 5122856,
-                 "MD5": "31919570ecb4c19b1d71416b591bb9b4",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/BiblioCraft%5Bv2.4.5%5D%5BMC1.12.2%5D.jar"
+                "size": 62074,
+                 "MD5": "f4c6f851b00d5518bf888815de279aba",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Notes-1.12-1.1.1.jar"
               }
             },
             {
-            "id": "com.moreplayermodels:moreplayer:1.2",
-           "name": "MorePlayerModels",
+            "id": "com.FastWorkbench:FastWorkbench:1.2",
+           "name": "FastWorkbench",
             "type": "ForgeMod",
             "artifact": {
-                "size": 939984,
-                 "MD5": "dd3c12263f806a659a2a982bf7b1a456",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/MorePlayerModels_1.12.2-(05Dec19).jar"
+                "size": 26515,
+                 "MD5": "bac0874328af45820e6e0d4592368c12",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/FastWorkbench-1.12.2-1.7.3.jar"
               }
             },
             {
-            "id": "com.EnderStorage:EnderStorage:1.2",
-           "name": "EnderStorage",
+            "id": "com.web:pt1:1.2",
+           "name": "mcef",
             "type": "ForgeMod",
             "artifact": {
-                "size": 223250,
-                 "MD5": "e9ed057b62d72aac0a14dae27b4b0b97",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/EnderStorage-1.12.2-2.4.6.137-universal.jar"
+                "size": 344339,
+                 "MD5": "20d4194ec1d94dab47eda6c47f549f52",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/mcef-1.12.2-1.11.jar"
               }
             },
             {
-            "id": "com.Mantle:Mantle:1.2",
-           "name": "Mantle",
+            "id": "com.web:pt2:1.2",
+           "name": "webdisplays",
             "type": "ForgeMod",
             "artifact": {
-                "size": 843486,
-                 "MD5": "5dc62c57f275b9493d7a252d4c1f9233",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Mantle-1.12-1.3.3.55.jar"
-              }
-            },
-            {
-            "id": "com.JEI:JEI:1.2",
-           "name": "JEI",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 651473,
-                 "MD5": "91310f3701200e0aecaabcb6d3315b95",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/jei_1.12.2-4.15.0.291.jar"
-              }
-            },
-            {
-            "id": "com.PTRLib:PTRLib:1.2",
-           "name": "PTRLib",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 169483,
-                 "MD5": "866cb50360eeb8cfed01cd7ff1102e5c",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/PTRLib-1.0.4.jar"
-              }
-            },
-            {
-            "id": "com.CodeChickenLib:CodeChickenLib:1.2",
-           "name": "CodeChickenLib",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 704330,
-                 "MD5": "e679823c84d7f99c40ee4e5094e944d9",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
-              }
-            },
-            {
-            "id": "com.BrandonsCore:BrandonsCore:1.2",
-           "name": "BrandonsCore",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 825212,
-                 "MD5": "1e2e50f1fd9106cb97d0af2d91044d5c",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/BrandonsCore-1.12.2-2.4.17.208-universal.jar"
-              }
-            },
-            {
-            "id": "com.malisiscore:malisiscore:1.2",
-           "name": "malisiscore",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 1939783,
-                 "MD5": "d88a4258a50d81749d4e438cdde46187",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/malisiscore-1.12.2-6.5.1.jar"
-              }
-            },
-            {
-            "id": "com.mcjtylib:mcjtylib:1.2",
-           "name": "mcjtylib",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 544856,
-                 "MD5": "6e7dcebd252456ee44542fcc1f1332a2",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/mcjtylib-1.12-3.5.4.jar"
-              }
-            },
-            {
-            "id": "com.RedstoneFlux:RedstoneFlux:1.2",
-           "name": "RedstoneFlux",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 36278,
-                 "MD5": "8cd942c7b18e369509b8121a1dc3d73a",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/RedstoneFlux-1.12-2.1.0.6-universal.jar"
-              }
-            },
-            {
-            "id": "com.Decocraft:Decocraft:1.2",
-           "name": "Decocraft",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 16747522,
-                 "MD5": "05c6327600aeef2b6ab099fd760a34a4",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Decocraft-2.6.3_1.12.2.jar"
-              }
-            },
-            {
-            "id": "com.HarvestCraft:HarvestCraft:1.2",
-           "name": "HarvestCraft",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 4907780,
-                 "MD5": "3131ab088923eff10223709210c5865b",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Pam's%2BHarvestCraft%2B1.12.2zf.jar"
-              }
-            },
-            {
-            "id": "com.Wawla:Wawla:1.2",
-           "name": "Wawla",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 94171,
-                 "MD5": "07bf385a4657291dd52491b8e87777fb",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Wawla-1.12.2-2.5.273.jar"
-              }
-            },
-            {
-            "id": "com.journeymap:journeymap:1.2",
-           "name": "journeymap",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 1920463,
-                 "MD5": "30fc96166f1ba7982c011b7fc745ea66",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/journeymap-1.12.2-5.5.5.jar"
-              }
-            },    
-  
-            {
-            "id": "com.industrialcraft:industrialcraft:1.2",
-           "name": "industrialcraft",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 8356436,
-                 "MD5": "f0a66cdd2c79f40ee2cacca348e55f5f",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/industrialcraft-2-2.8.170-ex112.jar"
-              }
-            },
-            {
-            "id": "com.NuclearCraft:NuclearCraft:1.2",
-           "name": "NuclearCraft",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 6861074,
-                 "MD5": "7ea2f61d67d5cec8d3c8faa3e51d6c7b",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/NuclearCraft-2.18l-1.12.2.jar"
-              }
-            },
-            {
-            "id": "com.MalisisDoors:MalisisDoors:1.2",
-           "name": "MalisisDoors",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 1741669,
-                 "MD5": "f29aa6786435109f7141f1dce798b680",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/malisisdoors-1.12.2-7.3.0.jar"
-              }
-            },
-            {
-            "id": "com.RFTools:RFTools:1.2",
-           "name": "RFTools",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 2895812,
-                 "MD5": "8d181c60e24edd8d7902ff36be70e0fb",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/rftools-1.12-7.72.jar"
-              }
-            },
-            {
-            "id": "com.BiomesoPlenty:BiomesoPlenty:1.2",
-           "name": "BiomesoPlenty",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 4696621,
-                 "MD5": "52be6c6166991f0c77fc93d80f64cca5",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/BiomesOPlenty-1.12.2-7.0.1.2441-universal(1).jar"
-              }
-            },
-            {
-            "id": "com.buildcraft:bildcraft:1.2",
-           "name": "buildcraft",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 4784433,
-                 "MD5": "51634442dd93c5f421fa7627197b5fb2",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/buildcraft-all-7.99.24.4.jar"
-              }
-            },
-            {
-            "id": "com.appliedenergistics2:appliedenergistics2:1.2",
-           "name": "appliedenergistics2",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 4062630,
-                 "MD5": "718d0c172cf9d2a84fda544107302a84",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/appliedenergistics2-rv6-stable-7.jar"
-              }
-            },
-            {
-            "id": "com.Draconic-Evolution:Draconic-Evolution:1.2",
-           "name": "Draconic-Evolution",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 5699511,
-                 "MD5": "23f3e1f278c7d9f0b9e76ccb98563187",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/Draconic-Evolution-1.12.2-2.3.24.349-universal.jar"
-              }
-            },
-            {
-            "id": "com.InventoryTweaks:InventoryTweaks:1.2",
-           "name": "InventoryTweaks",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 263258,
-                 "MD5": "77f5773ec045f3c9b2347eb0af515dd8",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/InventoryTweaks-1.63.jar"
-              }
-            },
-            {
-            "id": "com.randompatches:randompatches:1.2",
-           "name": "randompatches",
-            "type": "ForgeMod",
-            "artifact": {
-                "size": 270415,
-                 "MD5": "356f7e553d831220b8e35dcb6995b9a3",
-                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/randompatches-1.12.2-1.19.1.1.jar"
+                "size": 712307,
+                 "MD5": "e8552663c8ff88b7009bfc792c938e98",
+                 "url": "https://github.com/Faolan-Rad/avalon/raw/master/webdisplays-1.12.2-1.1.jar"
               }
             }
             ]
