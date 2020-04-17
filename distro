@@ -16,7 +16,7 @@
             "description": "Main Avali server",
             "icon": "https://github.com/Faolan-Rad/avalon/raw/master/e.png",
             "version": "0.0.6",
-            "address": "avalonvr.ml:25566",
+            "address": "avalonvr.ml:25565",
             "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "Main",
